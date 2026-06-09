@@ -74,7 +74,7 @@ python filename.py
 
 The exercises and examples in this repository are based on the Python course taught on Jenny's Lectures CS IT YouTube Channel
 
-YouTube Channel: https://youtube.com/playlist?list=PLdo5W4Nhv31bZSiqiOL5ta39vSnBxpOPT&si=BUUyuKqfHdPMvDZA
+YouTube Channel: https://www.youtube.com/@JennyslecturesCSIT
 
 ## 👨‍💻 Author
 

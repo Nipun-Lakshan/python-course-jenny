@@ -40,6 +40,8 @@ The purpose of this repository is to document my Python learning journey and str
 
   * Visual Studio Code
   * PyCharm
+    
+> This repository will be updated as additional topics are learned and implemented.
 
 ## ▶️ Running the Programs
 
